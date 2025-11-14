@@ -1,0 +1,32 @@
+# Environment variables
+.env
+.env.local
+
+# Database files
+chroma_langchain_db/
+*.sqlite3
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
