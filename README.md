@@ -1,4 +1,4 @@
-# SimpleDocRAGwithLangGraph
+# SimpleAgenticRAGwithLangGraph
 
 A lightweight Retrieval-Augmented Generation (RAG) system built using **LangGraph** for accurate and tool-aware document question answering.
 
